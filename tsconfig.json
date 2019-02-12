@@ -1,0 +1,25 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "typeRoots": [
+            "./node_modules/@types",
+        ],
+        "lib": [
+            "es6",
+            "dom"
+        ],
+        "strict": true,
+        "allowJs": true,
+        "target": "es5",
+        "module": "commonjs",
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true
+    },
+    "exclude": [
+        "./node_modules",
+        "./src/test/*"
+    ]
+}
