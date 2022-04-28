@@ -31,7 +31,7 @@
     "webpack-node-externals": "^1.7.2"
   },
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "typedi": "^0.8.0"
   }
 }
